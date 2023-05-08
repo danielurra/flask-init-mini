@@ -2,11 +2,11 @@
 
 This project is a boilerplate for future Flask applications.
 
-Below steps can be executed on any unix like system. I will use ubuntu, once the sandbox/playground is ready, execute instructions specified in below sections.
+The OS we'll be using is Linux Ubuntu.
 
 ## Setup SSH key
 
-**This step is option and can be omitted.**
+**This step is OPTIONAL and can be omitted.**
 
 Create ssh key and add it to GitHub's [SSH keys](https://github.com/settings/keys) settings.
 
