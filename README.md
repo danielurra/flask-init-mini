@@ -2,8 +2,7 @@
 
 This project is a boilerplate for future Flask applications.
 
-Below steps can be executed on any unix like system. I will use ubuntu deployed on
-[O'Reilly's sandbox](https://learning.oreilly.com/scenarios/ubuntu-sandbox/9781492062837) (alternatively you could use [Katacoda's playground](https://www.katacoda.com/courses/ubuntu/playground2004)). Once the sandbox/playground is ready, execute instructions specified in below sections.
+Below steps can be executed on any unix like system. I will use ubuntu, once the sandbox/playground is ready, execute instructions specified in below sections.
 
 ## Setup SSH key
 
