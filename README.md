@@ -34,9 +34,7 @@ docker ps
 curl "http://localhost"
 ```
 
-## Testing
-
-Unit test
+## Unit test
 
 ```bash
 docker exec flask-app pytest
