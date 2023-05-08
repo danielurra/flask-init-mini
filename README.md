@@ -25,6 +25,7 @@ cd flask-init-mini
 # Building and running docker container
 docker build --tag flask-mini --build-arg FLASK_DEBUG=True .
 docker run --detach --name flask-app --publish 80:8080 --rm flask-mini
+docker container ls
 docker ps
 ```
 ![docker-build](https://user-images.githubusercontent.com/51704179/236870791-77265dc9-0471-4fba-9668-66b015cdae0b.png)
