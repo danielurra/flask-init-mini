@@ -16,11 +16,6 @@ def client(app):
     return app.test_client()
 
 
-@pytest.fixture()
-def runner(app):
-    return app.test_cli_runner()
-
-
 def test_api(client):
     response = client.get("/")
     assert response.status_code == 200
