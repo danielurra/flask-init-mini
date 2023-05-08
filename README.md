@@ -60,4 +60,7 @@ Stop container
 
 ```bash
 docker stop flask-app
+docker ps
 ```
+![stop](https://user-images.githubusercontent.com/51704179/236874118-5317d034-0106-4e5a-9779-b82d50973442.png)
+
