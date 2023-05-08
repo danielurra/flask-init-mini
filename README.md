@@ -37,6 +37,7 @@ docker ps
 ```bash
 curl "http://localhost"
 ```
+![curl](https://user-images.githubusercontent.com/51704179/236872616-806e6b67-a2d2-404a-b659-5e9666b07b47.png)
 
 ## Unit test
 
