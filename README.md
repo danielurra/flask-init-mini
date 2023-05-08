@@ -44,6 +44,7 @@ curl "http://localhost"
 ```bash
 docker exec flask-app pytest
 ```
+![pytest](https://user-images.githubusercontent.com/51704179/236872958-c0233897-961a-4e02-84a8-0e6d2060b44f.png)
 
 Code coverage
 
