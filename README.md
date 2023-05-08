@@ -52,6 +52,9 @@ Code coverage
 docker exec flask-app coverage run -m pytest
 docker exec flask-app coverage report
 ```
+![coverage](https://user-images.githubusercontent.com/51704179/236873575-7dd5e38f-cd6e-49fe-898d-88f9504e81d8.png)
+
+![report](https://user-images.githubusercontent.com/51704179/236873734-888b8372-6608-4f25-ad48-5ecd2179d591.png)
 
 Stop container
 
