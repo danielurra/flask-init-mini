@@ -9,7 +9,7 @@ git clone https://github.com/danielurra/flask-init-mini.git
 cd flask-init-mini
 ```
 ## Building and running docker container
-```bash
+```docker
 docker build --tag flask-mini --build-arg FLASK_DEBUG=True .
 docker run --detach --name flask-app --publish 80:8080 --rm flask-mini
 docker container ls
