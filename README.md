@@ -6,12 +6,11 @@ This project is a **boilerplate** for future `Flask applications`, the OS we'll 
 ## Installation
 
 ```bash
-# Cloning the source code
+## Cloning the source code
 git clone https://github.com/danielurra/flask-init-mini.git
 cd flask-init-mini
 ```
-
-# Building and running docker container
+## Building and running docker container
 ```bash
 docker build --tag flask-mini --build-arg FLASK_DEBUG=True .
 docker run --detach --name flask-app --publish 80:8080 --rm flask-mini
