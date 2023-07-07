@@ -11,14 +11,17 @@ cd flask-init-mini
 ## Building and running docker container
 ```bash
 docker build --tag flask-mini --build-arg FLASK_DEBUG=True .
+```
+![docker-build](https://user-images.githubusercontent.com/51704179/236870791-77265dc9-0471-4fba-9668-66b015cdae0b.png)
+```bash
 docker run --detach --name flask-app --publish 80:8080 --rm flask-mini
+```
+![docker-run](https://user-images.githubusercontent.com/51704179/236872077-884b0925-989f-4ff6-9ece-551297cba46d.png)
+```bash
 docker container ls
 docker ps
 ```
-![docker-build](https://user-images.githubusercontent.com/51704179/236870791-77265dc9-0471-4fba-9668-66b015cdae0b.png)
-![docker-run](https://user-images.githubusercontent.com/51704179/236872077-884b0925-989f-4ff6-9ece-551297cba46d.png)
 ![docker-container-ls](https://user-images.githubusercontent.com/51704179/236872042-a01d2d16-c49f-47dc-977f-206a65f1da29.png)
-
 ## API
 
 ```bash
@@ -33,8 +36,7 @@ docker exec flask-app pytest
 ```
 ![pytest](https://user-images.githubusercontent.com/51704179/236872958-c0233897-961a-4e02-84a8-0e6d2060b44f.png)
 
-Code coverage
-
+## Code coverage
 ```bash
 docker exec flask-app coverage run -m pytest
 docker exec flask-app coverage report
