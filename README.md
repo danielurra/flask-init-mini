@@ -1,5 +1,5 @@
 # Flask mini
-![Flask_logo](https://github.com/danielurra/flask-init-mini/assets/51704179/573ac558-972a-433d-bb30-ab713fb074af)
+![flask-python-docker](https://github.com/danielurra/flask-init-mini/assets/51704179/7455583b-a4eb-43f3-ae34-98e2ec984dce)
 
 This project is a boilerplate for future Flask applications, the OS we'll be using is Linux Ubuntu.
 
