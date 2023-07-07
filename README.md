@@ -3,10 +3,8 @@
 
 This project is a **boilerplate** for future `Flask applications`, the OS we'll be using is Linux Ubuntu.
 
-## Installation
-
-```bash
 ## Cloning the source code
+```bash
 git clone https://github.com/danielurra/flask-init-mini.git
 cd flask-init-mini
 ```
