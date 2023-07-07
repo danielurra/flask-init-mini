@@ -1,4 +1,4 @@
-# Flask init-mini
+# Flask mini
 ![Flask_logo](https://github.com/danielurra/flask-init-mini/assets/51704179/573ac558-972a-433d-bb30-ab713fb074af)
 
 This project is a boilerplate for future Flask applications, the OS we'll be using is Linux Ubuntu.
