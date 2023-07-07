@@ -1,19 +1,7 @@
-# flask-init-mini
+# Flask init-mini
+![Flask_logo](https://github.com/danielurra/flask-init-mini/assets/51704179/573ac558-972a-433d-bb30-ab713fb074af)
 
-This project is a boilerplate for future Flask applications.
-
-The OS we'll be using is Linux Ubuntu.
-
-## Setup SSH key
-
-**This step is OPTIONAL and can be omitted.**
-
-Create ssh key and add it to GitHub's [SSH keys](https://github.com/settings/keys) settings.
-
-```bash
-ssh-keygen
-cat ~/.ssh/id_rsa.pub
-```
+This project is a boilerplate for future Flask applications, the OS we'll be using is Linux Ubuntu.
 
 ## Installation
 
