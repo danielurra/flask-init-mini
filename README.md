@@ -19,7 +19,6 @@ docker run --detach --name flask-app --publish 80:8080 --rm flask-mini
 ![docker-run](https://user-images.githubusercontent.com/51704179/236872077-884b0925-989f-4ff6-9ece-551297cba46d.png)
 ```bash
 docker container ls
-docker ps
 ```
 ![docker-container-ls](https://user-images.githubusercontent.com/51704179/236872042-a01d2d16-c49f-47dc-977f-206a65f1da29.png)
 ## API
