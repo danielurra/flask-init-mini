@@ -1,7 +1,7 @@
 # Flask mini
 ![flask-python-docker](https://github.com/danielurra/flask-init-mini/assets/51704179/7455583b-a4eb-43f3-ae34-98e2ec984dce)
 
-This project is a boilerplate for future Flask applications, the OS we'll be using is Linux Ubuntu.
+This project is a **boilerplate** for future `Flask applications`, the OS we'll be using is Linux Ubuntu.
 
 ## Installation
 
